@@ -1,0 +1,43 @@
+h2 { 
+	text-align : center ; 
+}
+body {
+	background-color: #e7c9ff;
+}
+h2 {
+	color: #9c0e0e;
+}
+h2 {
+	text-decoration: underline;
+}
+h2 {
+	font-family: Arial Black
+}
+body {
+	color: #1500ff;
+}
+h5 {
+	text-decoration: underline;
+	color : #007a18;
+}
+body {
+	font-family: Comic Sans MS
+}
+i {
+	color: #009468
+}
+h2 {
+	font-size: 30px
+}
+p {
+	font-size: 22px
+}
+h4 {
+	color: #cf1d96
+}
+h4 {
+	font-size: 27px
+}
+h4 {
+	text-decoration: overline underline;
+}
